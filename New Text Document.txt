@@ -1,0 +1,13 @@
+git add .
+
+
+git commit -m "?????????"
+
+git push
+----------------
+git push -u origin master
+
+git clone https://github.com/patsudahoranikom/project-su.git
+
+
+password  patsuda08
